@@ -6,8 +6,6 @@
  * Time: 下午5:24
  */
 
-echo test
-
-
+echo testasasdasdasdaaaaaa;
 
 ?>
